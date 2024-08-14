@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAE.LI.AT.04 Arquitecturas de referencia tecnológica de la Entidad"
+    id="id-439acc1cfffd42a6922e03db9c9d3a62"
+    documentation="Las entidades de la administración pública serán las responsables de definir, evolucionar o aplicar las&#xD;&#xA;arquitecturas de referencia en lo referente a los componentes de arquitectura tecnológica, con el propósito de orientar el diseño de cualquier arquitectura de solución bajo parámetros, patrones y atributos de calidad definidos por la entidad, teniendo en cuenta los principios de diseño de servicios digitales, los&#xD;&#xA;componentes estructurales y su comportamiento con otros subsistemas e interfaces, definidos en el Manual de Gobierno digital.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MGGTI.LI.ST.02 Gestión de los Servicios de TI"
+    id="id-88f76b76592944f1be46e273c3cf5c71"
+    documentation="La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces, debe gestionar la operación y el soporte de los servicios tecnológicos, en particular, durante la implementación y paso a producción de los servicios de TI, se debe garantizar la estabilidad de la operación de TI y responder acorde al plan de capacidad."/>

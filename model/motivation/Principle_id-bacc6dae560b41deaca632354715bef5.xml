@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAE.LI.AT.03 Continuidad y disponibilidadde los elementos de infraestructura"
+    id="id-bacc6dae560b41deaca632354715bef5"
+    documentation="Las entidades de la administración pública deben identificar los requerimientos de continuidad y&#xD;&#xA;disponibilidad para ser incluidos en el diseño de la arquitectura tecnológica, que garanticen la continuidad y disponibilidad de la infraestructura tecnológica, así como la definición de la capacidad de atención y resolución de incidentes para ofrecer continuidad de la operación y la prestación de todos los servicios de la Entidad."/>

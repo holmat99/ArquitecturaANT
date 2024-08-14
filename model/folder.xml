@@ -2,4 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura ANT"
     id="id-dbd337a9b7564f4b95825f17b15406e3"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Política"
+      id="id-e62fb3a67e9548eb84c8644ef33569d7"
+      conceptType="Principle"/>
+</archimate:ArchimateModel>

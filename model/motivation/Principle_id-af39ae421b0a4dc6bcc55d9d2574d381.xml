@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_11 - Innovación pública"
+    id="id-af39ae421b0a4dc6bcc55d9d2574d381"
+    documentation="Se asegura la ejecución del proceso de vigilancia tecnológica y la identificación del valor que generan nuevas tendencias y tecnologías emergentes para adoptarlas en la habilitación de servicios y capacidades que contribuyen a la innovación en la gestión pública">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>

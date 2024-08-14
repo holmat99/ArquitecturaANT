@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAE.LI.PA.04 Visión de la arquitectura"
+    id="id-757fcd5a856640cfa858920eb35feb1c"
+    documentation="Las entidades deben construir la visión de la arquitectura para cada ejercicio de AE, incluyendo el alcance, dominios, interesados, necesidades y recursos."/>

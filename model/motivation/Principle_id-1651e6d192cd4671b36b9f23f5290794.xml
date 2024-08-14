@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAE.LI.PA.08 Repositorio AE"
+    id="id-1651e6d192cd4671b36b9f23f5290794"
+    documentation="Las entidades deben contar con un repositorio que permita gestionar la documentación, modelos y artefactos de la Arquitectura Empresarial."/>

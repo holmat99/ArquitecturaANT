@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MGGTI.LI.SI.07 Plan de pruebas durante el ciclo de vida de los sistemas de información."
+    id="id-70374f5d4c1a4662bc8d234713ec8cdc"
+    documentation="La dirección de Tecnologías y Sistemas de la Información o quien haga sus veces debe estructurar un plan de pruebas que cubra aspectos funcionales y no funcionales sobre los nuevos desarrollos y mantenimientos evolutivos de los sistemas e información. La aceptación de cada una de las etapas de este plan debe estar vinculada a la transición del sistema de información a través de los diferentes ambientes."/>

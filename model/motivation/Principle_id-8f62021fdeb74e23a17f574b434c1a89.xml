@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MGGTI.LI.ST.11 Respaldo y recuperación de los Servicios tecnológicos"
+    id="id-8f62021fdeb74e23a17f574b434c1a89"
+    documentation="La Dirección de Tecnologías y Sistemas de la Información o quien haga sus veces, debe contar con mecanismos de respaldo para los servicios tecnológicos críticos de la entidad, así como con un proceso periódico de respaldo de la configuración de los recursos clave de los servicios y de la información almacenada en la infraestructura tecnológica, incluyendo la información clave de las estaciones de trabajo de los funcionarios de la entidad. Este proceso debe ser probado periódicamente y debe permitir la recuperación íntegra de los Servicios Tecnológicos respaldados."/>

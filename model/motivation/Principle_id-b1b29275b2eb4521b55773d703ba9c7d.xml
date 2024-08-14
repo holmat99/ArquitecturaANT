@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAE.LI.AT.02 Plataforma de interoperabilidad del Estado"
+    id="id-b1b29275b2eb4521b55773d703ba9c7d"
+    documentation="Las entidades de la administración pública deben incluir dentro de su arquitectura de Infraestructura Tecnológica los elementos necesarios para poder realizar el intercambio de información entre las áreas de la institución y las entidades externas a nivel sectorial y nacional mediante la plataforma de interoperabilidad definida en el Marco de Interoperabilidad."/>

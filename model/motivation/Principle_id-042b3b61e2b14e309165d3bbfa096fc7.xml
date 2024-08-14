@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MAE.LI.AS.02 Análisis de impacto del negocio"
+    id="id-042b3b61e2b14e309165d3bbfa096fc7"
+    documentation="Las entidades de la administración pública deben realizar el análisis de impacto de negocio para minimizar los riesgos de indisponibilidad de los servicios e infraestructuras de TI, que afecten las operaciones regulares de las organizaciones. Este análisis debe ser incorporado en el diseño de la o las arquitecturas de seguridad y formar parte del sistema de gestión de riesgos y ser utilizado como mecanismo de control para ejecutar tareas de monitoreo de crisis, planes de contingencia, capacidad de marcha atrás y prevención y atención de emergencias"/>

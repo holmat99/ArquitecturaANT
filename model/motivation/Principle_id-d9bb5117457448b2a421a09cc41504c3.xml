@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_05 - Racionalización y reutilización"
+    id="id-d9bb5117457448b2a421a09cc41504c3"
+    documentation="Las entidades de la administración pública aseguran el uso óptimo de los recursos requeridos para el desarrollo de las capacidades institucionales habilitadas con TI teniendo en cuenta criterios de pertinencia y reutilización, y sin perjuicio de la calidad del servicio ni de la operación de la entidad.">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>

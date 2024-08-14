@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_09 - Sostenibilidad ambiental de la tecnología"
+    id="id-656f129e26c64cb5a5a5d2ac07748ee7"
+    documentation="Se privilegia la selección de tecnologías que busquen frenar los impactos negativos en el medio ambiente y que aporten al equilibrio ecológico..">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>

@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_01 - Excelencia en los servicios"
+    id="id-91a21752c5684efdac8dd03c6f0ff42d"
+    documentation="Las capacidades y servicios institucionales habilitados con TI se construyen y se disponen con altos niveles de calidad buscando la excelencia en su prestación, para fortalecer la relación y las interacciones entre los ciudadanos y demás grupos de interés con el Estado, y para mejorar la credibilidad en la gestión pública.">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>

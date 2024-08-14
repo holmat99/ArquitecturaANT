@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_06 - Estandarización"
+    id="id-cd60bf25e0b94ad5b522f03b4b4baab0"
+    documentation="En la definición de las capacidades y servicios se incorporan criterios para lograr la estandarización y el equilibrio de la diversidad tecnológica, en función de las características comunes, la criticidad de los servicios y la complejidad técnica, para generar condiciones que faciliten la gestión y aseguren la sostenibilidad en la prestación de los servicios.">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>

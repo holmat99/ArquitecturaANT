@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_08 - Seguridad Digital"
+    id="id-881fd6ea01b84cc0847ba8b546ad1653"
+    documentation="La seguridad y privacidad de la información debe ser transversal y priorizada en los elementos de solución de los proyectos e iniciativas alineándose con las definiciones de MSPI y las mejores prácticas de Seguridad Digital.">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>

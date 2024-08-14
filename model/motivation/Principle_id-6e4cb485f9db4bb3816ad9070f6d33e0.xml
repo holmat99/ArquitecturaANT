@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_07 - Interoperabilidad"
+    id="id-6e4cb485f9db4bb3816ad9070f6d33e0"
+    documentation="Las capacidades y servicios institucionales habilitados con tecnología desde su concepción contemplan los componentes que faciliten el intercambio seguro y eficiente de la información con otros servicios tanto internos como externos y con ello contribuir a la entrega de servicios de manera completa y adecuada, minimizando los trámites internos o entre entidades y fortaleciendo la visión de unidad del Estado y su objetivo de mejorar la calidad de vida de los ciudadanos.">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>

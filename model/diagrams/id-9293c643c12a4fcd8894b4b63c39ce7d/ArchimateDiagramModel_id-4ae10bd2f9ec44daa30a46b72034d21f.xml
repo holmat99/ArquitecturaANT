@@ -1,0 +1,54 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MRAE"
+    id="id-4ae10bd2f9ec44daa30a46b72034d21f">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6d57ff90acdd4275a97114f87415e0bf"
+      name="MRAE 3.0"
+      font="1|Segoe UI Black|24.0|0|WINDOWS|1|-40|0|0|0|900|0|0|0|0|3|2|1|34|Segoe UI Black"
+      borderType="1">
+    <bounds
+        x="84"
+        y="24"
+        width="745"
+        height="313"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-986ab5d885ca40ab86b7bc0b63829d6c">
+      <bounds
+          x="84"
+          y="60"
+          width="541"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-24cf9cac4e8a4427861c44cbbdf0caa7.xml#id-24cf9cac4e8a4427861c44cbbdf0caa7"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-99bdaff1044f4379bb8a0e365d38ca7b">
+      <bounds
+          x="84"
+          y="132"
+          width="541"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-32038105a3c6430fa06e107792cab7fd.xml#id-32038105a3c6430fa06e107792cab7fd"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-2a9267de76a24b00a024fc3029bdc30c">
+      <bounds
+          x="84"
+          y="204"
+          width="541"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-89f3c06522bf4c759ad98b0478647617.xml#id-89f3c06522bf4c759ad98b0478647617"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_10 - Neutralidad tecnológica"
+    id="id-a88f3d35826f487f93488b8afbf73548"
+    documentation="La elección de las tecnologías a utilizar en las entidades obedece a una libre adopción apoyada de estudios, recomendaciones, buenas prácticas, conceptos, normatividad, entre otros aspectos; dando garantía de independencia y leal competencia entre los proveedores, mediante criterios de selección objetivos que garanticen el mejoramiento de las capacidades y servicios institucionales">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>

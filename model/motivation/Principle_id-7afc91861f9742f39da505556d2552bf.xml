@@ -1,0 +1,8 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PRI_02 - Valor público e impacto social"
+    id="id-7afc91861f9742f39da505556d2552bf"
+    documentation="La definición y priorización de las iniciativas y proyectos que conllevan al desarrollo de capacidades institucionales habilitadas con TI obedecen a evaluaciones del impacto social y la generación de valor público a sus grupos de interés, de tal forma que se garantice que las inversiones en Tecnología tengan un retorno en función de los beneficios esperados.">
+  <profiles
+      href="folder.xml#id-e62fb3a67e9548eb84c8644ef33569d7"/>
+</archimate:Principle>
