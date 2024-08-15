@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1. Modelo de gobierno de datos"
+    name="Modelo de gobierno de datos"
     id="id-8f477f95db074ffc9cf39181ab2008bb">
   <children
       xsi:type="archimate:DiagramModelReference"
