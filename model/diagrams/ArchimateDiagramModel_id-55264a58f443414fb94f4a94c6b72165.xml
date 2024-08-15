@@ -1,4 +1,66 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura Empresarial ANT"
-    id="id-55264a58f443414fb94f4a94c6b72165"/>
+    id="id-55264a58f443414fb94f4a94c6b72165">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-c7899fcd10be4067b7bc2fe7a5e9aabf"
+      name="MRAE 3.0"
+      font="1|Segoe UI Black|24.0|0|WINDOWS|1|-40|0|0|0|900|0|0|0|0|3|2|1|34|Segoe UI Black"
+      borderType="1">
+    <bounds
+        x="72"
+        y="24"
+        width="745"
+        height="313"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-ab83ba6c243f4146be3522d24be22738">
+      <bounds
+          x="84"
+          y="60"
+          width="541"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-24cf9cac4e8a4427861c44cbbdf0caa7.xml#id-24cf9cac4e8a4427861c44cbbdf0caa7"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-37c0fa4818ef4756a1b4ec1b61fee38d">
+      <bounds
+          x="84"
+          y="132"
+          width="541"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-32038105a3c6430fa06e107792cab7fd.xml#id-32038105a3c6430fa06e107792cab7fd"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-4765c528debe49d2a296f64e8eae84d0">
+      <bounds
+          x="84"
+          y="204"
+          width="541"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-89f3c06522bf4c759ad98b0478647617.xml#id-89f3c06522bf4c759ad98b0478647617"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-a8d08340507b45b0b26a38d5c0986fdf">
+    <bounds
+        x="72"
+        y="360"
+        width="745"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-833f6304975c4ea7ac83fe2ca1c89aa1.xml#id-833f6304975c4ea7ac83fe2ca1c89aa1"/>
+  </children>
+</archimate:ArchimateDiagramModel>
