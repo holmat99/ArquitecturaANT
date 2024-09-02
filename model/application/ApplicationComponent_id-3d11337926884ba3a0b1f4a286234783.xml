@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ORFEO"
+    id="id-3d11337926884ba3a0b1f4a286234783"
+    documentation="Aplicativo de gestión documental que permite gestionar la correspondencia interna, entrante y saliente según la TRD definida. Adicionalmente permite gestionar de los expedientes creados desde el SIT."/>

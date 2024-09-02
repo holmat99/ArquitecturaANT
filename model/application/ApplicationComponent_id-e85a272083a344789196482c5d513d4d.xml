@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KLIC"
+    id="id-e85a272083a344789196482c5d513d4d"
+    documentation="Aplicativo que permite el registro y cargue de los soportes de las actividades gestionadas mensualmente por cada uno de los contratistas, asi mismo permite el seguimiento y VoBo de los supervisores de los contratos."/>
