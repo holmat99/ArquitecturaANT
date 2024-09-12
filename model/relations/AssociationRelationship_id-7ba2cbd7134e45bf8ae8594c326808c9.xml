@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="/Server"
+    id="id-7ba2cbd7134e45bf8ae8594c326808c9"
+    directed="true">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-245267410d9f40f399e2cce0df8ed085.xml#id-245267410d9f40f399e2cce0df8ed085"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-7b834436553e48c4ac968262aa31b0b7.xml#id-7b834436553e48c4ac968262aa31b0b7"/>
+</archimate:AssociationRelationship>

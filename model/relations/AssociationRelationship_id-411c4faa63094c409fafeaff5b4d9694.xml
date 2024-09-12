@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Http Rest"
+    id="id-411c4faa63094c409fafeaff5b4d9694"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7876e1fd2d854d19bdd9c0e6dc887080.xml#id-7876e1fd2d854d19bdd9c0e6dc887080"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ffc284212b9f4359aba2be36d300393c.xml#id-ffc284212b9f4359aba2be36d300393c"/>
+</archimate:AssociationRelationship>

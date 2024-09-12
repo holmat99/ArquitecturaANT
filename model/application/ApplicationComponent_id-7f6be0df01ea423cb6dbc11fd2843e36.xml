@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bodega de Datos"
-    id="id-7f6be0df01ea423cb6dbc11fd2843e36"
-    documentation="Llamada DATA WAREHOUSE, es un conjunto de datos organizados e integrados que sufrieron procesos de Extracción Transformación y Cargue (ETL) para su posterior uso, los cuales soportan el proceso de toma de decisiones, está orientada al manejo de grandes volúmenes de información provenientes de diversas fuentes, esto incluye además de la base de datos los cubos de información."/>
